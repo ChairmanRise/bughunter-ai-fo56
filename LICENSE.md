@@ -1,4 +1,4 @@
-# 
+# Avancé BugHunter script. Téléchargez et installez avec mises à jour automatiques et haute performance — rapide, sécurisé et facile à utiliser.
 
 
 
